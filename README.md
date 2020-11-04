@@ -1,7 +1,7 @@
 
 # Todo App using React Native and Typicode fake API
 ## Simple CRUD operations
-
+- use expo install command in order to open the project
 - View
 
 ![view](https://user-images.githubusercontent.com/49856994/98101871-c65c5180-1ecd-11eb-8524-e26bb3cd3815.PNG)
