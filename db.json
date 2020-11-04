@@ -1,0 +1,34 @@
+{
+  "goals": [
+    {
+      "subject": "Do some work",
+      "description": "Clean The Dishes, and wash clothes",
+      "id": 1
+    },
+    {
+      "subject": "Go To School",
+      "description": "Make Homework, Do Quizzes",
+      "id": 2
+    },
+    {
+      "subject": "Go to gym",
+      "description": "3 sets 50 push ups, 3 sets squats.",
+      "id": 3
+    },
+    {
+      "subject": "Take a Bath",
+      "description": "Wash your face, body, then rinse",
+      "id": 4
+    },
+    {
+      "subject": "Relax Your self",
+      "description": "Go camp, swimming, etc",
+      "id": 5
+    },
+    {
+      "subject": "Go to work",
+      "description": "Code some projects",
+      "id": 6
+    }
+  ]
+}
